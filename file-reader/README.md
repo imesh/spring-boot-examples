@@ -20,7 +20,7 @@ mvn clean install
 - Set the file path and content type using the following environment variables:
 
 ```bash
-export FILE_PATH=$(pwd)/data.xml
+export FILE_PATH=$(pwd)/data/shiporder.xml
 export CONTENT_TYPE=application/xml
 ```
 
